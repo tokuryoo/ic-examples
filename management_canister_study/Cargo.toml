@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "src/management_canister_study_backend",
+]

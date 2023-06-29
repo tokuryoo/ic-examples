@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "management_canister_study_backend": {
+      "candid": "src/management_canister_study_backend/management_canister_study_backend.did",
+      "package": "management_canister_study_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

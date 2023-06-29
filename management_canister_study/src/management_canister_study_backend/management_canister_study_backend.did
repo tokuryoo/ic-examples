@@ -1,0 +1,5 @@
+service : {
+    "create_canister_example": () -> ();
+    "create_canister_example2": () -> (principal);
+    "create_canister_example3": () -> (principal);
+}
